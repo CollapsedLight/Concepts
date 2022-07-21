@@ -24,3 +24,6 @@ Use the provided define `INPUT` for nameifing the bit.
 ```cpp
 auto io = INPUT(test);
 ```
+
+## Alarm
+Create a stack to save active errors and warning.
